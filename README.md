@@ -1,7 +1,11 @@
 # Instant Messenger iOS App (Swift)
 A mobile chat room application for iOS created in Swift using a Firebase backend, Google Sign In, and JSQMessages.
 
-
+#### Features and Implementation:
+* Anonymous sign in, and Google account sign in, with custom Firebase user made for both methods
+* Instantly send text, picture, and video messages to other users in the chat room
+  * Message data stored in Firebase database; pictures and videos stored using Firebase storage.
+* View media in app: built in picture viewing and video player
 
 ## Screenshot of Messaging UI
 
